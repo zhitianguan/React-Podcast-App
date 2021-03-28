@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/React-Podcast-App/precache-manifest.d550f63652667848e56bce3375531e28.js"
+  "/React-Podcast-App/precache-manifest.8971846c81d9af254e7c144acb3234a0.js"
 );
 
 self.addEventListener('message', (event) => {
