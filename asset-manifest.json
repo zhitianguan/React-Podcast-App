@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-Podcast-App/static/css/main.65842c79.chunk.css",
-    "main.js": "/React-Podcast-App/static/js/main.cac7b723.chunk.js",
-    "main.js.map": "/React-Podcast-App/static/js/main.cac7b723.chunk.js.map",
+    "main.js": "/React-Podcast-App/static/js/main.e1e20852.chunk.js",
+    "main.js.map": "/React-Podcast-App/static/js/main.e1e20852.chunk.js.map",
     "runtime-main.js": "/React-Podcast-App/static/js/runtime-main.2919bc4e.js",
     "runtime-main.js.map": "/React-Podcast-App/static/js/runtime-main.2919bc4e.js.map",
     "static/js/2.e96f2d6f.chunk.js": "/React-Podcast-App/static/js/2.e96f2d6f.chunk.js",
     "static/js/2.e96f2d6f.chunk.js.map": "/React-Podcast-App/static/js/2.e96f2d6f.chunk.js.map",
     "index.html": "/React-Podcast-App/index.html",
-    "precache-manifest.8971846c81d9af254e7c144acb3234a0.js": "/React-Podcast-App/precache-manifest.8971846c81d9af254e7c144acb3234a0.js",
+    "precache-manifest.543ffd6e245e21421013d4834aa7ae2e.js": "/React-Podcast-App/precache-manifest.543ffd6e245e21421013d4834aa7ae2e.js",
     "service-worker.js": "/React-Podcast-App/service-worker.js",
     "static/css/main.65842c79.chunk.css.map": "/React-Podcast-App/static/css/main.65842c79.chunk.css.map",
     "static/js/2.e96f2d6f.chunk.js.LICENSE.txt": "/React-Podcast-App/static/js/2.e96f2d6f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2919bc4e.js",
     "static/js/2.e96f2d6f.chunk.js",
     "static/css/main.65842c79.chunk.css",
-    "static/js/main.cac7b723.chunk.js"
+    "static/js/main.e1e20852.chunk.js"
   ]
 }
