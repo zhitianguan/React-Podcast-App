@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7643d48efb5ee1b6cef3cf1b9bf957f",
+    "revision": "57b101c8a4d0b1d97b0fb1066353182c",
     "url": "/React-Podcast-App/index.html"
   },
   {
-    "revision": "94a64e96d5d34b4cd876",
+    "revision": "c6c21663e9915f9ecc60",
     "url": "/React-Podcast-App/static/css/main.65842c79.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Podcast-App/static/js/2.e96f2d6f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "94a64e96d5d34b4cd876",
-    "url": "/React-Podcast-App/static/js/main.dc0a1474.chunk.js"
+    "revision": "c6c21663e9915f9ecc60",
+    "url": "/React-Podcast-App/static/js/main.c90da252.chunk.js"
   },
   {
     "revision": "3b61900d0e73d4b4774e",
